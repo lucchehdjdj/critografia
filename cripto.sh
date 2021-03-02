@@ -1,5 +1,5 @@
 !/usr/bin/env bash
-#lucca
+#lucca e dark
 
 #codigo fonte 97586f977eb7551587f6df449f96d5e693188ca13e31ad94
 
